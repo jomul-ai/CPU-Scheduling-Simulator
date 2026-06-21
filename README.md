@@ -158,13 +158,10 @@ Through this project, we gained practical experience in:
 
 Final Project – CPU Scheduling Simulator
 
-Developed by:
+Team Members:
 
 - Jonathan Mulyono
-- Team Members
+- Bagaskara Leo
 
 ---
 
-## License
-
-This project was developed for educational purposes.
